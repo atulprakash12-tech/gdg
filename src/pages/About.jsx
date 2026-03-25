@@ -7,6 +7,7 @@ const gdgPillars = [
   { emoji: "🚀", title: "Grow",    description: "Apply your knowledge to build real projects and advance your career." },
 ];
 
+//hello
 export default function About() {
   const [likes, setLikes] = useState(0); 
   
